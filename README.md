@@ -1,4 +1,5 @@
-### Hi there 👋
+- Ola meu nome é Pedro Henrique Vinhatto Bocatto
+- Sou estuante de pensamento computacional
 
 <!--
 **pedrobocatto/pedrobocatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
